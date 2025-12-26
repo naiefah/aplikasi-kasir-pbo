@@ -1,0 +1,18 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Java build
+bin/
+out/
+target/
+*.class
+
+# Generated report
+laporan_penjualan.pdf
+laporan_penjualan.txt
+
+# OS
+.DS_Store
+Thumbs.db
